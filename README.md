@@ -4,16 +4,6 @@ Este repositório contém algumas implementações simples em C++ usando o conce
 
 ---
 
-## Como compilar e executar
-
-Em qualquer questão:
-
-```bash
-g++ main.cpp -o programa
-./programa
-```
-
----
 
 ## Questões
 
