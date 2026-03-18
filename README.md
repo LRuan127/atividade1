@@ -1,22 +1,29 @@
-# Lista - TAD
+# Lista TAD 
 
-Este repositório contém algumas implementações simples em C++ usando o conceito de Tipo Abstrato de Dados (TAD).
+Este repositório contém implementações simples de TAD em C++
 
 ---
 
+## Como compilar e executar
+
+Exemplo (para qualquer questão):
+
+```bash
+g++ main.cpp Nome.cpp -o programa
+./programa
+```
+
+---
 
 ## Questões
 
 ### Questão 1 - Ponto
 
-**Problema:**
-Representar dois pontos e calcular a distância entre eles.
-
-**Como executar:**
+Calcula a distância entre dois pontos.
 
 ```bash
 cd questao1
-g++ main.cpp -o q1
+g++ main.cpp ponto.cpp -o q1
 ./q1
 ```
 
@@ -24,14 +31,11 @@ g++ main.cpp -o q1
 
 ### Questão 2 - Aluno
 
-**Problema:**
-Criar um aluno com nome e notas e calcular a média.
-
-**Como executar:**
+Calcula a média de um aluno.
 
 ```bash
 cd questao2
-g++ main.cpp -o q2
+g++ main.cpp aluno.cpp -o q2
 ./q2
 ```
 
@@ -39,14 +43,11 @@ g++ main.cpp -o q2
 
 ### Questão 3 - Lista
 
-**Problema:**
-Criar uma lista simples e inserir alguns valores.
-
-**Como executar:**
+Insere e mostra valores de uma lista.
 
 ```bash
 cd questao3
-g++ main.cpp -o q3
+g++ main.cpp lista.cpp -o q3
 ./q3
 ```
 
@@ -54,14 +55,11 @@ g++ main.cpp -o q3
 
 ### Questão 4 - Circunferência
 
-**Problema:**
-Calcular área e perímetro de uma circunferência.
-
-**Como executar:**
+Calcula área e perímetro.
 
 ```bash
 cd questao4
-g++ main.cpp -o q4
+g++ main.cpp circunferencia.cpp -o q4
 ./q4
 ```
 
