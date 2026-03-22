@@ -1,0 +1,11 @@
+Array:
++ Acesso rápido
++ Simples
+- Tamanho fixo
+- Pode desperdiçar memória
+
+Ponteiro:
++ Tamanho dinâmico
++ Melhor uso de memória
+- Mais complexo
+- Mais lento para acessar

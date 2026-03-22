@@ -1,0 +1,10 @@
+
+Atributos:
+- nome (string)
+- saldo (int)
+
+Operações:
+- getSaldo()
+- getNome()
+- depositar(int valor)
+- sacar(int valor)
