@@ -1,10 +1,10 @@
-# 📚 Lista 3 - TAD em C++
+# Lista 3 - TAD em C++
 
 Lista 3 
 
 
 
-## 🚀 Como executar os códigos
+##  Como executar os códigos
 
 Cada questão está em uma pasta separada.
 Para executar, entre na pasta desejada e compile usando o comando:
